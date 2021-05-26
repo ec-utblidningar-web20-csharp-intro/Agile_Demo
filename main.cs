@@ -8,6 +8,6 @@ void main() {
   Console.Log(hej);
   
   int things = 9000;
-
+  double moon = 420,69
 }
 //hejhehejhej
