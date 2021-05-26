@@ -18,5 +18,9 @@ while (true)
   int things = 9000;
 
 
+
+
+  double moon = 420,69
+
 }
 //hejhehejhej
