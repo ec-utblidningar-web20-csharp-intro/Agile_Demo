@@ -20,7 +20,7 @@ while (true)
 
 
 
-  double moon = 420,69
+  double moon = 420,69 //Oj här blev det fel, undrar vad det kan vara. O_o???? 
 
 }
 //hejhehejhej
