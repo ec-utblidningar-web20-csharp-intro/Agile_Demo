@@ -1,16 +1,16 @@
 using System.IO;
-//ojojojoj
+//ojoj
 void main() {
 
 int counter = 1;
-while (true)
-{
-    Console.Write("{0}", counter);
-    counter++;
-}
+    for (int counter = 0; counter < length; counter++)
+    {
+        Console.Write("{0}", counter);
+        counter++;
+    }
 
 
-   Console.Write("Hello from Johanna");
+    Console.Write("Hello from Johanna");
 
   int hej = 5;
   Console.Log(hej);
