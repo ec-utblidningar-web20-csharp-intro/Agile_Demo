@@ -1,7 +1,9 @@
 using System.IO;
 
-void main()
+while (true)
 {
+void main()
+  {
     int counter = 1;
     for (int counter = 0; counter < length; counter++)
     {
@@ -16,4 +18,5 @@ void main()
         int things = 9000;
         double moon = 420,69;
     }
+  }
 }
