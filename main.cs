@@ -11,12 +11,9 @@ void main()
 
         Console.Write("Hello from Johanna");
 
-        int hej = 5;
+        int nop = 3;
         Console.Log(hej);
         
         myList.add(counter);
-
-        int things = 9000;
-        double moon = 420.69;
     }
 }
