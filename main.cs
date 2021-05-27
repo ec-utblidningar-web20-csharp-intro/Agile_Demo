@@ -3,7 +3,7 @@ using System.IO;
 void main()
 {
     int counter = 1;
-    while (true)
+    for (int counter = 0; counter < length; counter++)
     {
         Console.Write("{0}", counter);
         counter++;
