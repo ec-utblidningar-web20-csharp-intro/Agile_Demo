@@ -12,8 +12,9 @@ void main()
 
         Console.Write("Hello from Johanna");
 
-        int nop = 3;
-        Console.Log(hej);
+        int tja = 5;
+        Console.Log(tja);
+
 
         int stuff = 42;
         double yup = 420;
