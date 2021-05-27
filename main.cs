@@ -10,8 +10,8 @@ void main()
 
         Console.Write("Hello from Johanna");
 
-        int hej = 5;
-        Console.Log(hej);
+        int tja = 5;
+        Console.Log(tja);
 
         int things = 9000;
         double moon = 420,69;
