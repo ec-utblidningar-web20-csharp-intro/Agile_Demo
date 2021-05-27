@@ -18,7 +18,7 @@ while (true)
   int things = 9000;
 
 
-
+  string something = "word";
 
   double moon = 420,69
 
