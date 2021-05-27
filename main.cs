@@ -3,6 +3,9 @@ using System.IO;
 void main()
 {
     int counter = 1;
+    
+    string text = "Hej";
+    
     for (int counter = 0; counter < length; counter++)
     {
         Console.Write("{0}", counter);
