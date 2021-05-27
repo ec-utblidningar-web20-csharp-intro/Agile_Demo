@@ -14,6 +14,8 @@ void main()
 
         int nop = 3;
         Console.Log(hej);
+        
+        Console.Write("Hellohello");
 
         int stuff = 42;
         double yup = 420;
