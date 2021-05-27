@@ -8,7 +8,7 @@ void main()
         Console.Write("{0}", counter);
         counter++;
 
-        Console.Write("Hello from Johanna");
+        Console.Write("Hello from the other side");
 
         int nop = 3;
         Console.Log(hej);
