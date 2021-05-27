@@ -12,6 +12,8 @@ void main()
 
         int hej = 5;
         Console.Log(hej);
+        
+        Console.Write("Hellohello");
 
         int things = 9000;
         double moon = 420,69;
