@@ -1,27 +1,22 @@
 using System.IO;
-//ojojojoj
-void main() {
 
-int counter = 1;
 while (true)
 {
-    Console.Write("{0}", counter);
-    counter++;
+void main()
+  {
+    int counter = 1;
+    for (int counter = 0; counter < length; counter++)
+    {
+        Console.Write("{0}", counter);
+        counter++;
+
+        Console.Write("Hello from Johanna");
+
+        int tja = 5;
+        Console.Log(tja);
+
+        int stuff = 42;
+        double yup = 420;
+    }
+  }
 }
-
-
-   Console.Write("Hello from Johanna");
-
-  int hej = 5;
-  Console.Log(hej);
-  
-  int things = 9000;
-
-
-
-    //Hello World!!!!
-
-  double moon = 420,69
-
-}
-//hejhehejhej
