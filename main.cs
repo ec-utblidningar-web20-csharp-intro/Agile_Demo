@@ -15,7 +15,6 @@ void main()
         int tja = 5;
         Console.Log(tja);
 
-
         int stuff = 42;
         double yup = 420;
     }
